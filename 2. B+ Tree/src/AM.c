@@ -1351,8 +1351,6 @@ void *AM_FindNextEntry(int scanDesc) {
             }
             break;
     }
-
-
 }
 
 

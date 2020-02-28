@@ -4,4 +4,4 @@
 
 **2. B+ Tree implementation and block level functions**
 
-**3. Merge Sort**
+**3. External Sort**
